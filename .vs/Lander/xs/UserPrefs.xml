@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FF29D2CC-DFFE-E8E3-D83D-8B0812FCE9FB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Nave.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Nave.cs" Line="5" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lander" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Nave.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e2034c26-9973-4ea5-ad67-c997e2aaef93" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
